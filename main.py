@@ -249,8 +249,8 @@ def create_connection():
     """
     connection = pymysql.connect(
         host = "wgi.c72q0qo8oeio.us-east-2.rds.amazonaws.com",
-        user = "btunney",
-        password = "56Cheesepass!",
+        user = "HERE",
+        password = "HERE",
         database = "wgi"
     )
 
